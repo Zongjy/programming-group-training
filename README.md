@@ -1,2 +1,2 @@
 # programming-group-training
-wait
+北京交通大学2022春季程序设计分组训练作业汇总
